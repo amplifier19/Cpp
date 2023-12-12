@@ -30,6 +30,7 @@ Execute, using as command line argument one of the maps: `map1.txt`, `map2.txt`
 ```
 
 ### Gameplay
-- Move Pottery using ⬅️⬆️⬇️➡️    
+- Move Pottery using ⬅️⬆️⬇️➡️
+  (Whenever Pottery makes a move, Molfoy does also)
 - Let Malfoy make a move with `Space`
 - Exit game with `Esc`
